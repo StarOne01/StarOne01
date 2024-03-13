@@ -2,10 +2,10 @@
 <div>
   <ul>
     <li>Love to innovate and learn new things</li>
-    <li>Front-end Developer with the knowledge of: 
-      <p><img src="https://skillicons.dev/icons?i=html,css,js"></p></li>
+    <li>Full-Stack Developer with the knowledge of: 
+      <p><img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bootstrap,git"></p></li>
       <li>Bare metal programmer and reverse engineer with the knowledge of:
-     <p><img src="https://skillicons.dev/icons?i=c,rust"</p></li>
+     <p><img src="https://skillicons.dev/icons?i=c,rust,py"</p></li>
 <li>A Electrical and  electronic engineer</li>
   </ul>
   <p>Loved Languages: </p>
