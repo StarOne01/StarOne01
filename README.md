@@ -6,7 +6,7 @@
       <p><img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bootstrap,git"></p></li>
       <li>Bare metal programmer and reverse engineer with the knowledge of:
      <p><img src="https://skillicons.dev/icons?i=c,rust,py"</p></li>
-<li>A Electrical and  electronic engineer</li>
+<li>A aspiring Electrical and  electronic engineer</li>
   </ul>
   <p>Loved Languages: </p>
 <a href="https://skillicons.dev">
