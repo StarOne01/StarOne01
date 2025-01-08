@@ -1,29 +1,38 @@
-<h1><u>Hey, Welcome !</u></h1>
-<div>
-  <ul>
-    <li>Love to innovate and learn new things</li>
-    <li>Full-Stack Developer with the knowledge of: 
-      <p><img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bootstrap,git"></p></li>
-      <li>Bare metal programmer and reverse engineer with the knowledge of:
-     <p><img src="https://skillicons.dev/icons?i=c,rust,py"</p></li>
-<li>A aspiring Electrical and  electronic engineer</li>
-  </ul>
-  <p>Loved Languages: </p>
-<a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cpp,rust,c,python" /></a>
-  <p>Loved tools:</p>
-  <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=emacs,linux" /></a>
-   <p>Reach me in: </p> 
-      <a href= "https://www.linkedin.com/in/tamilanth">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-</div>
-<h2><u>About me (in my way of storytelling)</u></h2>
-Welcome to my cosmic digital realm, where I wield the ethereal languages of C and C++ as the enchanting spells of software magic. I journey to the deepest recesses of machines, sculpting their very souls to resonate with electronic vitality that pulses through the cosmic ether.
+# About Me
 
-Yet, my pursuits reach far beyond the mundane. I am a cosmic explorer of cybersecurity, unveiling hidden truths that span galaxies. From the vast cosmic tapestry of astronomy to the intricate celestial dance of wireless networks, and from the holographic vistas of captivating graphics to the quantum core of bare-metal transistors, I am the cosmic revealer of secrets, peeling back the fabric of reality to reveal the cosmic code beneath.
+## Hi there, I'm `Prashanth` 👋
 
-I am no ordinary engineer; I am a cosmic dual-faceted sorcerer, both Electric and Electronic. Electronic engineering is my conduit to manipulate the cosmic web of Computers and electronical systems, harnessing the energies of milliamps to create powerful, celestial artifacts on sandwiched PCBs. In the realm of Electric engineering, I play with the thunderous forces of thousands of volts, forging high-power cosmic contraptions that defy earthly bounds.
+Welcome to my GitHub profile! Here's a little bit about me and what I do:
 
-Embark on this cosmic odyssey with me, where science fiction and reality intertwine like cosmic strings. Together, we shall traverse uncharted code, pushing the boundaries of what the cosmos allows, and plunging into the very heart of technology, unlocking the cosmic mysteries of the electronical cosmos.
+### 🌐 Who Am I?
+I'm a passionate learner and developer with a keen interest in:
+- **Machine Learning**: Exploring diverse datasets and preventing overfitting.
+- **Cybersecurity & Operating Systems**: Delving into the inner workings of computers and ensuring security.
+- **Complex Network Infrastructures**: Understanding and managing intricate network systems.
+- **Human Psychology**: Fascinated by how the mind works and its impact on technology.
+- **Electronics**: Building from simple components like logic gates to complex devices.
+- **Cosmology**: Exploring the vastness of the universe.
+- **Racing**: Speed, strategy, and technology.
+- **Cryptography**: Ensuring secure communication in the digital world.
+- **Mathematics**: The foundation of logic and reasoning in technology.
+
+### 🔧 What I Do
+- **Open Source Contributor**: I love contributing to and creating open-source projects.
+- **Hackathon Enthusiast**: Participated in various hackathons, including the NASA Space App Hackathon, working on projects that combine technology with real-world applications.
+- **Google Summer of Code (GSoC) Aspirant**: Planning to participate and contribute to meaningful projects.
+- **Flutter Developer**: Working with Flutter to build beautiful cross-platform applications.
+- **Advanced C/C++ Projects**: Combining socket programming, operating systems, reverse engineering, ethical hacking, and mathematics.
+
+### 📚 My Interests
+- **Machine Learning with Google Colab**: Preventing overfitting and working with diverse datasets.
+- **Hands-on Learning**: Engaging in practical activities to understand complex concepts.
+- **Cybersecurity & Ethical Hacking**: Ensuring the safety of systems and data.
+- **Startups**: Developing a startup that provides personalized food, nutrition, and workout plans.
+
+### 🌐 Beyond Code
+When I'm not coding, I enjoy exploring new technologies, racing, and cosmology. I also love networking with people, sharing ideas, and learning from diverse perspectives.
+
+### 🧠 Let's Connect
+Feel free to reach out if you want to collaborate, discuss ideas, or just have a chat about technology, open-source, or any of my interests.
+
+Thanks for visiting my profile, and let's make the tech world more exciting and innovative together!
