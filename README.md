@@ -30,8 +30,6 @@ I'm a passionate learner and developer with a keen interest in:
 ### 🌐 Beyond Code
 When I'm not coding, I enjoy exploring new technologies, racing, and cosmology. I also love networking with people, sharing ideas, and learning from diverse perspectives.
 
-![Tamilanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=StarOne01&rank_icon=github&theme=holi)
-
 ### 🧠 Let's Connect
 Feel free to reach out if you want to collaborate, discuss ideas, or just have a chat about technology, open-source, or any of my interests.
 
