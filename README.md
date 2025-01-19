@@ -18,14 +18,9 @@ I'm a passionate learner and developer with a keen interest in:
 ### 🔧 What I Do
 - **Open Source Contributor**: I love contributing to and creating open-source projects.
 - **Hackathon Enthusiast**: Participated in various hackathons, working on projects that combine technology with real-world applications.
-- **Google Summer of Code (GSoC) Aspirant**: Planning to participate and contribute to meaningful projects.
 - **Flutter Developer**: Working with Flutter to build beautiful cross-platform applications.
 - **Advanced C/C++ Projects**: Combining socket programming, operating systems, reverse engineering, ethical hacking, and mathematics.
 
-### 📚 My Interests
-- **Machine Learning with Google Colab**
-- **Hands-on Learning**
-- **Cybersecurity & Ethical Hacking**
 
 ### 🌐 Beyond Code
 When I'm not coding, I enjoy exploring new technologies, racing, and cosmology. I also love networking with people, sharing ideas, and learning from diverse perspectives.
