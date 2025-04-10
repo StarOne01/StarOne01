@@ -1,40 +1,66 @@
-# About Me
+<h1 align="center">Hi there, I'm StarOne01 👋</h1>
+<p align="center">
+  🚀 A passionate technophile | 🧠 Lifelong learner | 🛠️ Building the future, one line of code at a time
+</p>
 
-## Hi there, I'm **`Prashanth (StarOne01)`** 👋
+---
 
-Welcome to my GitHub profile! Here's a little bit about me and what I do:
+### 👨‍💻 About Me
 
-### 🌐 Who Am I?
-I'm a passionate learner and developer with a keen interest in:
-- **Machine Learning**: Exploring how just data turns into logic by itself.
-- **Cybersecurity & Operating Systems**: Delving into the inner workings of computers and ensuring security.
-- **Complex Network Infrastructures**: Understanding and managing intricate network systems.
-- **Electronics**: Building from simple components like logic gates to complex devices.
-- **Cosmology**: Exploring the vastness of the universe.
-- **Racing**: Speed, strategy, and technology.
-- **Cryptography**: Ensuring secure communication in the digital world.
-- **Mathematics**: The foundation of logic and reasoning in technology.
+- 🔭 I’m currently working on:  
+  • Systems Programming · Web Dev · Compiler Design   
+  • Google Summer of Code (GSoC) 2025 Aspirant  
 
-### 🔧 What I Do
-- **Open Source Contributor**: I love contributing to and creating open-source projects.
-- **Hackathon Enthusiast**: Participated in various hackathons, working on projects that combine technology with real-world applications.
-- **Flutter Developer**: Working with Flutter to build beautiful cross-platform applications.
-- **Advanced C/C++ Projects**: Combining socket programming, operating systems, reverse engineering, ethical hacking, and mathematics.
+- 🌱 I’m exploring advanced topics like:  
+  • Operating Systems, Reverse Engineering, Cryptography  
+  • ARMv8 Assembly, Networking Internals, LLM Fine-Tuning  
 
+- 🧠 I love dissecting complex systems — from CPUs to the cosmos  
+- 🛠️ Open source enthusiast | 🌐 Web + OS dev | 🧬 Futuristic product thinker  
+- 🎓 President @I&EDC — driving innovation and impact  
 
-### 🌐 Beyond Code
-When I'm not coding, I enjoy exploring new technologies, racing, and cosmology. I also love networking with people, sharing ideas, and learning from diverse perspectives.
+---
 
-### 🧠 Let's Connect
-Feel free to reach out if you want to collaborate, discuss ideas, or just have a chat about technology, open-source, or any of my interests.
+### 🚀 Technologies & Tools
 
-Thanks for visiting my profile, and let's make the tech world more exciting and innovative together!
+**Languages:**  
+`C` `C++` `Rust` `Python` `JavaScript` `Bash` `ARMv8 Assembly`  
 
+**Domains:**  
+- Operating Systems · Cybersecurity · PC Building  
+- Compiler Design · Cryptography · Machine Learning  
+- Web Development · Data Structures & Algorithms  
+- Networking (TCP/IP, Socket Programming, Wireshark, Nmap, Burp Suite)  
+- Fullstack Frameworks: `React.js`, `Node.js`, `Next.js`, `Express.js`  
+- Databases: `PostgreSQL`, `MongoDB`  
 
+**Tools & Platforms:**  
+`Linux` `Git` `GitHub` `VS Code` `Emacs` `Docker` `Postman` `Flutter`
 
-<a href= "https://StarOne01.github.io">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=black" alt="Pages Badge"/>
-</a>
-<a href= "https://www.linkedin.com/in/starone">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
-</a>
+---
+
+### 🧠 Interests
+
+- 🤖 Reverse Engineering & Ethical Hacking  
+- 🧬 Biohacking, Fitness, and AI-powered HealthTech  
+- 🌌 Cosmology, Psychology, and the Science of Everything  
+- 🎮 Game Dev & Simulation Engines (future curiosity)  
+
+---
+
+### 📈 GitHub Stats
+
+![starone01's Stats](https://github-readme-stats.vercel.app/api?username=starone01&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![starone01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starone01&theme=blueberry&show_icons=true&hide_border=true&layout=compact)  <br />
+
+---
+
+### 💡 Let's Connect!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/starone) · [Portfolio](starone01.github.io)
+- 💌 Drop me a message to talk tech, collab, or just vibe: **thestarone01@proton.me**
+
+---
+
+> _“Be curious. Be relentless. Build things that matter.”_
+
