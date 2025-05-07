@@ -57,7 +57,7 @@
 
 ### 💡 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/starone) · [Portfolio](starone01.github.io)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/starone) · [Portfolio](https://starone01.github.io)
 - 💌 Drop me a message to talk tech, collab, or just vibe: **thestarone01@proton.me**
 
 ---
