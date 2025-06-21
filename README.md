@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on:  
   • Systems Programming · Web Dev · Compiler Design   
-  • Google Summer of Code (GSoC) 2025 Aspirant  
 
 - 🌱 I’m exploring advanced topics like:  
   • Operating Systems, Reverse Engineering, Cryptography  
