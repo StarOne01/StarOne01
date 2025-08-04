@@ -23,7 +23,7 @@
 ### 🚀 Technologies & Tools
 
 **Languages:**  
-`C` `C++` `Rust` `Python` `JavaScript` `Bash` `ARMv8 Assembly`  
+`C` `C++` `Dart` `Java` `Go` `Rust` `Python` `JavaScript` `Bash` `ARMv8 Assembly`  
 
 **Domains:**  
 - Operating Systems · Cybersecurity · PC Building  
