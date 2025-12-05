@@ -1,65 +1,33 @@
-<h1 align="center">Hi there, I'm StarOne01 👋</h1>
-<p align="center">
-  🚀 A passionate technophile | 🧠 Lifelong learner | 🛠️ Building the future, one line of code at a time
-</p>
+# StarOne01
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=CTO+%40+Medclara+%26+Primesoma;Building+Healthcare+AI+%26+Nutrition+Tech;Coimbatore%2C+India;20yo+Engineer+%26+Founder" alt="Typing SVG" />
+</div>
 
-### 👨‍💻 About Me
+<br/>
 
-- 🔭 I’m currently working on:  
-  • Systems Programming · Web Dev · Compiler Design   
+## About Me
+20-year-old engineering student and CTO from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical transcription) and **Primesoma** (personalized South Indian nutrition delivery). Passionate about software architecture, cloud infra (GCP, Docker, Terraform), and healthcare tech—balancing startups, academics.
 
-- 🌱 I’m exploring advanced topics like:  
-  • Operating Systems, Reverse Engineering, Cryptography  
-  • ARMv8 Assembly, Networking Internals, LLM Fine-Tuning  
+## What I'm Building
+- **Medclara**: AI-powered medical transcription targeting Indian hospitals with Indic language support (Go, Python, PyTorch).
+- Full-stack expertise: Go (Gin/Fiber), TypeScript/Node/React/Flutter, PostgreSQL, microcontrollers (8051/PIC).
 
-- 🧠 I love dissecting complex systems — from CPUs to the cosmos  
-- 🛠️ Open source enthusiast | 🌐 Web + OS dev | 🧬 Futuristic product thinker  
-- 🎓 President @I&EDC — driving innovation and impact  
+## Tech Stack
+| Category          | Tools & Frameworks                  |
+|-------------------|-------------------------------------|
+| Languages         | Go, TypeScript/JS, Python, Java    |
+| Backend           | Gin/Fiber, Node.js, REST APIs      |
+| Cloud/DevOps      | GCP, Docker/Podman, Terraform, NGINX |
+| Data/ML           | PostgreSQL, PyTorch, medSpaCy      |
+| Frontend          | React, Flutter                     |
+| Other             | GitHub, VS Code, Linux/Debian      |
 
----
 
-### 🚀 Technologies & Tools
+## Connect
+- Web:  [https://starone01.github.io](https://starone01.github.io)
+- LinkedIn: [Prashanth T](https://linkedin.com/in/starone)
+- Email: thestarone01@proton.me
+- Twitter/X: [@thestarone01](https://x.com/thestarone01)
 
-**Languages:**  
-`C` `C++` `Dart` `Java` `Go` `Rust` `Python` `JavaScript` `Bash` `ARMv8 Assembly`  
-
-**Domains:**  
-- Operating Systems · Cybersecurity · PC Building  
-- Compiler Design · Cryptography · Machine Learning  
-- Web Development · Data Structures & Algorithms  
-- Networking (TCP/IP, Socket Programming, Wireshark, Nmap, Burp Suite)  
-- Fullstack Frameworks: `React.js`, `Node.js`, `Next.js`, `Express.js`  
-- Databases: `PostgreSQL`, `MongoDB`  
-
-**Tools & Platforms:**  
-`Linux` `Git` `GitHub` `VS Code` `Emacs` `Docker` `Postman` `Flutter`
-
----
-
-### 🧠 Interests
-
-- 🤖 Reverse Engineering & Ethical Hacking  
-- 🧬 Biohacking, Fitness, and AI-powered HealthTech  
-- 🌌 Cosmology, Psychology, and the Science of Everything  
-- 🎮 Game Dev & Simulation Engines (future curiosity)  
-
----
-
-### 📈 GitHub Stats
-
-![starone01's Stats](https://github-readme-stats.vercel.app/api?username=starone01&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![starone01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starone01&theme=blueberry&show_icons=true&hide_border=true&layout=compact)  <br />
-
----
-
-### 💡 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/starone) · [Portfolio](https://starone01.github.io)
-- 💌 Drop me a message to talk tech, collab, or just vibe: **thestarone01@proton.me**
-
----
-
-> _“Be curious. Be relentless. Build things that matter.”_
-
+***
