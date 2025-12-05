@@ -1,7 +1,7 @@
 # StarOne01
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=CTO+%40+Medclara+%26+Primesoma;Building+Healthcare+AI+%26+Nutrition+Tech;Coimbatore%2C+India;20yo+Engineer+%26+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=735&lines=CTO+%40+Medclara+%26+Primesoma;Building+Healthcare+AI+%26+Nutrition+Tech;Coimbatore%2C+India;20yo+Engineer+%26+Founder" alt="Typing SVG" />
 </div>
 
 <br/>
