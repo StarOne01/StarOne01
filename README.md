@@ -7,7 +7,7 @@
 <br/>
 
 ## About Me
-20-year-old engineering student and CTO from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical transcription) and **Primesoma** (personalized South Indian nutrition delivery and softwares). Passionate about software architecture, cloud infra (GCP, Docker, Terraform), and healthcare tech—balancing startups, academics.
+CTO from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical transcription) and **primesoma** (personalized South Indian nutrition delivery and softwares). Passionate about software architecture, cloud infra (GCP, Docker, Terraform), and healthcare tech—balancing startups, academics.
 
 ## What I'm Building
 - **Medclara**: AI-powered medical transcription targeting Indian hospitals with Indic language support (Go, Python, PyTorch).
