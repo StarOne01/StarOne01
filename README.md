@@ -1,13 +1,13 @@
 # StarOne01
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=735&lines=CTO+%40+Medclara+%26+Primesoma;Building+Healthcare+AI+%26+Nutrition+Tech;Coimbatore%2C+India;20yo+Engineer+%26+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=735&lines=Founding+Engineer+%40+Medclara+%26+Primesoma;Building+Healthcare+AI+%26+Nutrition+Tech;Coimbatore%2C+India;20yo+Engineer+%26+Founder" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## About Me
-CTO from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical transcription) and **primesoma** (personalized South Indian nutrition delivery and softwares). Passionate about software architecture, cloud infra (GCP, Docker, Terraform), and healthcare tech—balancing startups, academics.
+Engineer from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical transcription) and **primesoma** (personalized South Indian nutrition delivery and softwares). Passionate about software architecture, cloud infra (GCP, Docker, Terraform), and healthcare tech—balancing startups, academics.
 
 ## What I'm Building
 - **Medclara**: AI-powered medical transcription targeting Indian hospitals with Indic language support (Go, Python, PyTorch).
