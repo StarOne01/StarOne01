@@ -25,7 +25,7 @@ Engineer from Coimbatore, India, co-founding **Medclara** (Tamil ASR for medical
 
 
 ## Connect
-- Web:  [https://starone01.github.io](https://starone01.github.io)
+- Web:  [https://starone01.me](https://starone01.me)
 - LinkedIn: [Prashanth T](https://linkedin.com/in/starone)
 - Email: thestarone01@proton.me
 - Twitter/X: [@thestarone01](https://x.com/thestarone01)
