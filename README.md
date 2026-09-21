@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=Systems+Engineer+%E2%80%94+hardware+%E2%86%94+software;16+LLVM+contributions+and+counting;Building+compilers%2C+not+just+using+them;Coimbatore+%C2%B7+Fedora+%C2%B7+ship+at+-O3)
+  ![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=0F6B4A&center=true&vCenter=true&width=700&lines=Systems+Engineer%2C+hardware+to+software;LLVM+contributor%2C+now+deep+in+MLIR;Building+compilers%2C+not+just+using+them;Coimbatore+%C2%B7+Fedora+%C2%B7+ship+at+-O3)
   
 <p align="center">
   <a href="https://starone01.me">starone01.me</a> ·
@@ -30,7 +30,7 @@ func.func @starone01(%idea: !prod.prototype) -> !prod.shipped {
 
 I'm Prashanth, known online as **StarOne01**. Final-year Electrical and Electronics Engineering student, but most of what I do lives in the gap between hardware and software: **compilers, model inference, and the systems that make AI run efficiently on real silicon.**
 
-Self-taught, starting on a phone through Termux before I ever owned a laptop. Since then: a production multilingual clinical AI system, **16 LLVM contributions**, a film engine on custom embeddings, and multilingual LLM research. Now going deep on **compiler internals and MLIR**, the layer where models actually meet hardware.
+Self-taught, starting on a phone through Termux before I ever owned a laptop. Since then: a production multilingual clinical AI system, **LLVM contributions**, a film engine on custom embeddings, and multilingual LLM research. Now going deep on **compiler internals and MLIR**, the layer where models actually meet hardware.
 
 > *I wrote my first production code on a phone. No laptop. Just Termux, a cracked screen, and WiFi that dropped every twenty minutes. People said wait for the right setup. I didn't.*
 
@@ -50,10 +50,10 @@ Self-taught, starting on a phone through Termux before I ever owned a laptop. Si
 
 ### open source — llvm
 
-**16 contributions** across the stack, now pushing into MLIR:
+Contributions across the stack, now pushing into MLIR:
 
 - **Backend / codegen:** X86 target-specific lowering for `_Float16` ops — `FABS`, `FNEG`, `FCOPYSIGN` at instruction-selection level.
-- **Frontend:** New Clang diagnostic in the Sema layer for function-like macro references requiring parentheses — 49 review comments, full CI.
+- **Frontend:** New Clang diagnostic in the Sema layer for function-like macro references requiring parentheses, through full review and CI.
 - **libc docs:** Series of POSIX header documentation additions (`dirent`, `unistd`, `termios`, `sys/stat`, `sys/wait`, `netinet/in` …), each through review.
 
 > *Started with docs, proved out backend and frontend, now going deeper into MLIR. Progression over assertion.*
@@ -81,8 +81,8 @@ Infra & Data    →  AWS · GCP · PostgreSQL · Qdrant · Fedora
 
 ### currently
 
-- Deepening into **MLIR dialects and passes** — building on the X86 backend + Clang Sema foundation
-- **Local LLM inference** — deploying open models in production, Ollama internals, scheduling engines
+- Deepening into **MLIR dialects and passes**, building on the X86 backend + Clang Sema foundation
+- **Local LLM inference**, deploying open models in production, Ollama internals, scheduling engines
 ---
 
 <div align="center">
