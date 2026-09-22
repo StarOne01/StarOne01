@@ -46,18 +46,6 @@ Started coding on a phone with Termux. Since then I've helped build a clinical A
 
 ---
 
-### llvm
-
-Small contributions, mostly learning through review:
-
-- **Backend:** X86 lowering for `_Float16` — `FABS`, `FNEG`, `FCOPYSIGN` at ISel.
-- **Frontend:** Small Clang Sema diagnostic for macro parens.
-- **libc docs:** POSIX header docs (`dirent`, `unistd`, `termios`, `sys/stat` …).
-
-→ **[github.com/StarOne01](https://github.com/StarOne01)**
-
----
-
 ### stack
 
 <p align="left">
