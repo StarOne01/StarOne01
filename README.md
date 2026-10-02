@@ -32,19 +32,6 @@ I'm Prashanth, **StarOne01**. Final-year EEE student interested in where hardwar
 
 Started coding on a phone with Termux. Since then I've helped build a clinical AI system, made some small LLVM contributions, and tried out embeddings and multilingual LLM work. Currently learning MLIR.
 
----
-
-### projects
-
-|  | project | what it is |
-|---|---|---|
-| `medclara` | **[Medclara](https://starone01.me/#work)** — Clinical AI | Voice-first multilingual clinical docs. IndicConformer + Gemma for SOAP. Worked on arch + infra. |
-| `movieslikethis` | **[MoviesLikeThis](https://movieslikethis.starone01.me)** — Embeddings | Match films by feeling, not genre. Small custom embeddings experiment. |
-| `sherlock_sft` | **Sherlock SFT** — Fine-Tuning | Character LM via SFT. Spent a while tracking down a QLoRA NaN loss. |
-| `bfloat16` | **[bfloat16](https://github.com/StarOne01/bfloat16)** — Numerics | Small C++ bfloat16 implementation. |
-| `phrasenux` | **[PhraseNuX](https://github.com/StarOne01/PhraseNuX)** — origin | C++ CLI password manager, AES, zero deps. Early project, written on a phone. |
-
----
 
 ### stack
 
