@@ -70,7 +70,7 @@ Infra      →  AWS · GCP · Postgres · Qdrant · Fedora
 ---
 
 <div align="center">
-  <sub>— Fedora · Coimbatore, India —</sub>
+  <sub>Coimbatore, India </sub>
   <br/>
   <sub><a href="https://starone01.me">starone01.me</a> · <a href="https://www.linkedin.com/in/StarOne01/">linkedin</a> · <a href="https://x.com/iamstarone01">x</a> · <a href="mailto:ping@starone01.me">ping@starone01.me</a></sub>
 
