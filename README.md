@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=0F6B4A&center=true&vCenter=true&width=700&lines=EEE+undergrad+who+wandered+into+compilers;Contributing+to+LLVM+%2F+MLIR;Identifies+identifiers+%28pun+intended%29;Coimbatore+%C2%B7+Fedora)
+  ![Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=EEE+undergrad+who+wandered+into+compilers;Contributing+to+LLVM+%2F+MLIR;Identifies+identifiers+%28pun+intended%29;Coimbatore+%C2%B7+Fedora)
 
 <p align="center">
   <a href="https://starone01.me">starone01.me</a> ·
