@@ -50,14 +50,6 @@ Infra      →  AWS · GCP · Postgres · Qdrant · Fedora
 
 ---
 
-### receipts
-
-Merged and in-flight work, with links, so you don't have to take my word for it:
-
-- **MLIR** · [VectorToSCF treated negative indices as in-bounds (#224843)](https://github.com/llvm/llvm-project/pull/224843) · merged. fixed it, then started a Discourse RFC about whether indices are even allowed to be negative.
-- **MLIR** · [scf-for-loop-range-folding now folds `arith.addi %i, %i` (#228725)](https://github.com/llvm/llvm-project/pull/228725) · approved and merged.
-- **clang** · [clang now shows diagnostics for missing parens in function-like macros (#123495)](https://github.com/llvm/llvm-project/pull/123495) a `[Sema]` diagnostic fix around function-like macros · merged. <!-- TODO: add the PR link here -->
-
 ### currently
 
 - writing a toy compiler's lexer from scratch. It handles `def` and `extern`, and has comments because nobody asked for them
