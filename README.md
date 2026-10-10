@@ -9,7 +9,7 @@
   <a href="mailto:ping@starone01.me">ping@starone01.me</a>
 </p>
 
-  <sub>final-year EEE @ Coimbatore · graduating april 2027 · contributing to LLVM / MLIR (still learning, loudly)</sub>
+  <p>The hardest part is starting. Once you get that out of the way, you'll find the rest of the journey much easier!</p>
 
 </div>
 
@@ -59,7 +59,7 @@ Infra      →  AWS · GCP · Postgres · Qdrant · Fedora
 ---
 
 <div align="center">
-  <sub>Coimbatore, India </sub>
+  <p>Coimbatore, India </p>
   <br/>
   <sub><a href="https://starone01.me">starone01.me</a> · <a href="https://www.linkedin.com/in/StarOne01/">linkedin</a> · <a href="https://x.com/iamstarone01">x</a> · <a href="mailto:ping@starone01.me">ping@starone01.me</a></sub>
 
